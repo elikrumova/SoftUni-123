@@ -1,1 +1,0 @@
-name = Annie, size = 60, email = annavlahova@gmail.com
