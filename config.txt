@@ -1,3 +1,8 @@
 NAME - hristo ; Mail - hmichev@icloud.com
+<<<<<<< HEAD
 Name - ivan ; Mail - vasilevs.Ivan@gmail.com
 dvdvdfvd
+=======
+ i did some changee
+another change
+>>>>>>> origin/master
