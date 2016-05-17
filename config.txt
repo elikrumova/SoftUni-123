@@ -1,1 +1,1 @@
-name = Alisa, size = 100, email = alisa@dir.bg
+A.Atanasov
